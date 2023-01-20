@@ -11,7 +11,7 @@ This aim of this project was to write and test a simple application. The project
 
 
 ### **Application Menu**
-![1](/assets/applicationmenu.PNG)
+![1](/assets/menu.PNG)
 
 ### **JUnit Code Coverage**
-![2](/assets/images/codecoverage.PNG)
+![2](/assetscodecoverage.PNG)
