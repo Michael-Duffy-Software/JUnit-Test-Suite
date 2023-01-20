@@ -14,4 +14,4 @@ This aim of this project was to write and test a simple application. The project
 ![1](/assets/menu.PNG)
 
 ### **JUnit Code Coverage**
-![2](/assetscodecoverage.PNG)
+![2](/assets/codecoverage.PNG)
